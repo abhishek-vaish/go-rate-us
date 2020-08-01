@@ -12,6 +12,7 @@ func add(a, b int) int {
 	return a + b
 }
 
+// Go Function returns multiple values
 func power(a, b int) (int, bool) {
 	return a * b, true
 }
