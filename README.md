@@ -10,3 +10,5 @@
 
 * pointers
 * array
+* function
+* structures
