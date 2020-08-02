@@ -18,3 +18,8 @@ $ go run file.go
 * array
 * function
 * structures
+
+### day3
+
+* composition
+* overloading
